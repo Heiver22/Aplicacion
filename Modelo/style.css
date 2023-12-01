@@ -15,7 +15,6 @@ background-size:cover;
 }
 
 .container-form {
-    border: solid thin red;
     max-width: 900px;
     height: 500px;
     display: flex;
@@ -33,5 +32,5 @@ background-size:cover;
     background-color: #c7eef3;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    
+
 }
