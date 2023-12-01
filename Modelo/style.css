@@ -32,5 +32,14 @@ background-size:cover;
     background-color: #c7eef3;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
+}
 
+.info-childs{
+width: 100%;
+padding: 30px;
+}
+
+.info-childs h2{
+    font-size: 2.5rem;
+    
 }
