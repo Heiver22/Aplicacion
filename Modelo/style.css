@@ -10,4 +10,28 @@ display: flex;
 align-items: center;
 justify-content: center;
 height: 100vh;
+background-image:url(..//Recursos/Fondo.jpeg);
+background-size:cover;
+}
+
+.container-form {
+    border: solid thin red;
+    max-width: 900px;
+    height: 500px;
+    display: flex;
+    border-radius: 20px;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.1);
+    transition: all 1s ease;
+    margin: 10px;
+}
+
+.information{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #c7eef3;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
 }
